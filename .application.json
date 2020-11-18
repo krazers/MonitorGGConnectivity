@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "MonitorGGConnectivity": {
+            "PhysicalId": {
+                "us-east-1": "MonitorGGConnectivity"
+            }
+        }
+    }
+}
